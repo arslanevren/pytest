@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# Venvs
+.env/
+venv/
+myenv/
+
+# Tests
+tests/
+test_data/
+
+# Test Caches
+.pytest_cache/
+
+# Others
+*.log
+*.tmp
+.cache/
